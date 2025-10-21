@@ -1,4 +1,4 @@
-// Last update: 2025-10-15 10:32:36
+// Last update: 2025-10-20 12:48:03
 
 
 
@@ -3693,6 +3693,7 @@ __translations = {
         '101101004_ChangeEnhancementRefundConfirmation.RemoveByUnbind': 'Operacja na przedmiocie spowoduje, że możliwość odzyskania z niego pełni zasobów zostanie utracona. Czy chcesz kontynuować?',
         '101201001_AddTabDepositConfirmation': 'Czy na pewno chcesz powiększyć depozyt?',
         '101301001_TargetClassError': 'Nieprawidłowa klasa przedmiotu docelowego.',
+        '101401001_TargetMinMaxLevelError': 'Poziom przedmiotu docelowego nie mieści się w dozwolonym zakresie.',
         '1101001_MissingSelectedStat': 'Przedmiot nie posiada bonusu wzmocnienia!',
         '1101002_MissingSelectorStat': 'Przedmiot nie posiada wzmocnienia!',
         '1102001_BonusSelectorItemBindableConfirmation': 'Ulepszenie tego przedmiotu spowoduje jego związanie z użytkownikiem. Czy chcesz kontynuować?',
